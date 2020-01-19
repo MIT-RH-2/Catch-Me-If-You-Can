@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: ea8f67e7659d1fc42b1b5c4758b3a88e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Drawing_Plane_GEO
+    100002: FaceButton_B1_GEO
+    100004: FaceButton_B2_GEO
+    100006: FaceButton_B3_GEO
+    100008: FaceButton_B4_GEO
+    100010: FaceButton_T1_GEO
+    100012: FaceButton_T2_GEO
+    100014: FaceButton_T3_GEO
+    100016: FaceButton_T4_GEO
+    100018: //RootNode
+    100020: SideButton_Power_GEO
+    100022: SideButton_Round_GEO
+    100024: TouchRing_Button_GEO
+    100026: TouchRing_Ring_GEO
+    400000: Drawing_Plane_GEO
+    400002: FaceButton_B1_GEO
+    400004: FaceButton_B2_GEO
+    400006: FaceButton_B3_GEO
+    400008: FaceButton_B4_GEO
+    400010: FaceButton_T1_GEO
+    400012: FaceButton_T2_GEO
+    400014: FaceButton_T3_GEO
+    400016: FaceButton_T4_GEO
+    400018: //RootNode
+    400020: SideButton_Power_GEO
+    400022: SideButton_Round_GEO
+    400024: TouchRing_Button_GEO
+    400026: TouchRing_Ring_GEO
+    2100000: lambert2
+    2300000: Drawing_Plane_GEO
+    2300002: FaceButton_B1_GEO
+    2300004: FaceButton_B2_GEO
+    2300006: FaceButton_B3_GEO
+    2300008: FaceButton_B4_GEO
+    2300010: FaceButton_T1_GEO
+    2300012: FaceButton_T2_GEO
+    2300014: FaceButton_T3_GEO
+    2300016: FaceButton_T4_GEO
+    2300018: //RootNode
+    2300020: SideButton_Power_GEO
+    2300022: SideButton_Round_GEO
+    2300024: TouchRing_Button_GEO
+    2300026: TouchRing_Ring_GEO
+    3300000: Drawing_Plane_GEO
+    3300002: FaceButton_B1_GEO
+    3300004: FaceButton_B2_GEO
+    3300006: FaceButton_B3_GEO
+    3300008: FaceButton_B4_GEO
+    3300010: FaceButton_T1_GEO
+    3300012: FaceButton_T2_GEO
+    3300014: FaceButton_T3_GEO
+    3300016: FaceButton_T4_GEO
+    3300018: //RootNode
+    3300020: SideButton_Power_GEO
+    3300022: SideButton_Round_GEO
+    3300024: TouchRing_Button_GEO
+    3300026: TouchRing_Ring_GEO
+    4300000: Wacom_Intuos_Pro_GEO
+    4300002: TouchRing_Ring_GEO
+    4300004: TouchRing_Button_GEO
+    4300006: Drawing_Plane_GEO
+    4300008: SideButton_Round_GEO
+    4300010: SideButton_Power_GEO
+    4300012: FaceButton_T1_GEO
+    4300014: FaceButton_T2_GEO
+    4300016: FaceButton_T3_GEO
+    4300018: FaceButton_T4_GEO
+    4300020: FaceButton_B4_GEO
+    4300022: FaceButton_B3_GEO
+    4300024: FaceButton_B2_GEO
+    4300026: FaceButton_B1_GEO
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wacom_Intuos_Pro_MAT
+    second: {fileID: 2100000, guid: b83ee274c3e44e54c80851010dfb45ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wacom_Intuos_Pro_MAT1
+    second: {fileID: 2100000, guid: b83ee274c3e44e54c80851010dfb45ce, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

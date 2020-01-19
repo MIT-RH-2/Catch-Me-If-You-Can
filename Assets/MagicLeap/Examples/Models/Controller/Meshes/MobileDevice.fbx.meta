@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 92d6f68d435a7db44b6a5e8cab75fa17
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bumper_Button_Geo
+    100002: Buttons_Grp
+    100004: Camera_Button_Geo
+    100006: Dot_Grid_Geo
+    100008: Home_Button_Geo
+    100010: Keyboard_Button_Geo
+    100012: //RootNode
+    100014: Settings_Button_Geo
+    100016: Trigger_Button_Geo
+    400000: Bumper_Button_Geo
+    400002: Buttons_Grp
+    400004: Camera_Button_Geo
+    400006: Dot_Grid_Geo
+    400008: Home_Button_Geo
+    400010: Keyboard_Button_Geo
+    400012: //RootNode
+    400014: Settings_Button_Geo
+    400016: Trigger_Button_Geo
+    2300000: Bumper_Button_Geo
+    2300002: Camera_Button_Geo
+    2300004: Dot_Grid_Geo
+    2300006: Home_Button_Geo
+    2300008: Keyboard_Button_Geo
+    2300010: //RootNode
+    2300012: Settings_Button_Geo
+    2300014: Trigger_Button_Geo
+    3300000: Bumper_Button_Geo
+    3300002: Camera_Button_Geo
+    3300004: Dot_Grid_Geo
+    3300006: Home_Button_Geo
+    3300008: Keyboard_Button_Geo
+    3300010: //RootNode
+    3300012: Settings_Button_Geo
+    3300014: Trigger_Button_Geo
+    4300000: MobileDevice_Geo
+    4300002: Camera_Button_Geo
+    4300004: Keyboard_Button_Geo
+    4300006: Settings_Button_Geo
+    4300008: Trigger_Button_Geo
+    4300010: Bumper_Button_Geo
+    4300012: Home_Button_Geo
+    4300014: Dot_Grid_Geo
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_MAT
+    second: {fileID: 2100000, guid: 1f4e9723203231b419dfd26522ef4d83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dot_Grid_Mat
+    second: {fileID: 2100000, guid: 13eafd56208ff3b43a7b9df3fb279794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MobileDevice_Button_MAT
+    second: {fileID: 2100000, guid: e37bbdaf5fb1fee4aac5a619d6e53a90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MobileDevice_Dot_Grid_Mat
+    second: {fileID: 2100000, guid: 13eafd56208ff3b43a7b9df3fb279794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MobileDevice_Mat
+    second: {fileID: 2100000, guid: 39518081c3690494380a8dece4faef00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MobileDevice_leaper_MAT
+    second: {fileID: 2100000, guid: 4931dee9c1bb8324ca1f58a6649eb10c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
